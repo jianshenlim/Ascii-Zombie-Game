@@ -1,0 +1,34 @@
+Display char dictionary
+'O': food
+']': crop
+'}': ripe crop
+'F': Farmer
+'H': Human
+'.': Dirt
+'#': fence
+')': plank
+'+': tree
+'?': zombie club
+'%': zombie mace
+'E': Zombie Egg
+'A': zombie arm
+'L': zombie leg
+'^': dead zombie
+'S':Vine
+'R':Rope
+'$':Herb
+'W':Wall
+'D':Door
+'V': Vehicle
+'P':Parking slot
+'M':Mambo
+'X':Mambo portal
+'T':timer
+'i': small herb
+'|': medium herb
+'$': mature herb
+'=': Shotgun
+'!': Sniper
+'"': Sniper Bullets
+':': Shotgun bullets
+
